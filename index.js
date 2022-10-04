@@ -48,5 +48,6 @@ io.on('connection', (s) => {
 
   s.once('disconnect', function () {
     connections.delete(s);
+    console.log('disconn')
   });
 })
