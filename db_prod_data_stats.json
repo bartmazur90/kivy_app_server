@@ -1,0 +1,18 @@
+{
+    "stats": [
+        {
+            "company_name": "",
+            "pc": "",
+            "robot_name": "",
+            "process_name": "",
+            "source_correct": 0,
+            "source_error_business": 0,
+            "source_error": 0,
+            "item_correct": 0,
+            "item_error_business": 0,
+            "item_error": 0,
+            "utilization": 0,
+            "date": ""
+        }
+    ]
+}

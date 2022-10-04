@@ -1,0 +1,42 @@
+{
+    "users": [
+        {
+            "id": "",
+            "user": "",
+            "gender": "",
+            "pass": "",
+            "company": "",
+            "userType": "",
+            "processes": [
+                "",
+                ""
+            ],
+            "vm": ""
+        }
+    ],
+    "schedule": [
+        {
+            "id": "",
+            "vm": "",
+            "date": "",
+            "name": "",
+            "status": ""
+        }
+    ],
+    "notifications": [
+        {
+            "id": "",
+            "vm": "",
+            "process": "",
+            "date": "",
+            "type": "",
+            "msg": ""
+        }
+    ],
+    "vms": [
+        {
+            "name": "",
+            "stop": "bool"
+        }
+    ]
+}
